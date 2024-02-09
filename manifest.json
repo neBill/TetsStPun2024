@@ -1,0 +1,28 @@
+{
+    "name": "Тесты ЕКЭ ПУН СТ",
+    "short_name": "Тесты ПУН СТ",
+    "start_url": "index.html",
+    "display": "standalone", 
+    "background_color": "#025252",
+    "theme_color": "#202430",
+    "orientation": "portrait-primary",
+    "icons": [        
+        {
+            "src": "assets/images/logo-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "assets/images/logo-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "path/to/maskable_icon.png",
+            "sizes": "196x196",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+      
+    ]
+}
